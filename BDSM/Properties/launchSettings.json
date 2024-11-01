@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BDSM": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\test.bdsm D:\\test.bin -o -s"
+    }
+  }
+}
